@@ -1,0 +1,13 @@
+target
+.settings
+.project
+.metadata
+bin
+.classpath
+test-output
+.tern-project
+build
+out
+.idea
+*.iml
+/sige-saa.iml
